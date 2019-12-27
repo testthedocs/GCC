@@ -1,2 +1,3 @@
-# Vale-style-template
-A Vale linter style template repository
+# GCC style template
+A Vale linter style that replicates the GCC style guide
+
